@@ -1,5 +1,7 @@
 # Reveal-Categories-Found-in-Data
 App publishers want to know what users think and feel about their apps. While it's impossible to read their minds, you can data-mine the reviews they leave to uncover the main topics. This project utilizes clustering and Natural Language Processing (NLP) techniques to analyze negative reviews from the Google Play Store, sort them into categories, and identify key terms from each category.
+## Acknowledgements
+This project was originally created as part of a course on [DataCamp](https://www.datacamp.com). The original content and structure were provided by DataCamp.
 ## Project Overview
 In this project, the objective was to analyze the negative reviews of a mobile app from the Google Play Store. By applying clustering and Natural Language Processing (NLP) techniques, the project aimed to sort these reviews into meaningful categories. This helps app publishers understand common themes and pain points expressed by users, allowing them to prioritize improvements and address concerns effectively.
 
